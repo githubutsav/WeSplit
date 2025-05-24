@@ -27,9 +27,13 @@ To run this app on your local machine:
 ## Usage
 
 1.⁠ ⁠Enter the check amount.
+
 2.⁠ ⁠Select the number of people.
+
 3.⁠ ⁠Choose the tip percentage.
+
 4.⁠ ⁠The app will display:
+
    - Total amount including tip
    - Amount each person needs to pay
 
