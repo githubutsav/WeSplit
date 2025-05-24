@@ -19,10 +19,6 @@ To run this app on your local machine:
 
 3.⁠ ⁠Build and run the app using the simulator or a real device.
 
-## Requirements
-
--  ⁠Xcode 14 or later
--  ⁠iOS 16 or later
 
 ## Usage
 
@@ -36,6 +32,10 @@ To run this app on your local machine:
 
    - Total amount including tip
    - Amount each person needs to pay
+
+## Screenshot
+
+![Alt text](Screenshot - iPhone 16 Pro - 2025-05-25 at 01.52.32.png)
 
 ## License
 
